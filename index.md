@@ -8,4 +8,4 @@ Jon’s new film is being shown at a festival in Lansing, Michigan, and Vince ha
 
 __December 4 and 5, 7:30 PM__
 
-[Youtube](https://www.youtube.com/channel/UCSD-pYJonjaJvLNXUnbEe8Q/about)
+[YouTube](https://www.youtube.com/channel/UCSD-pYJonjaJvLNXUnbEe8Q/about)
