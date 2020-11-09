@@ -1,6 +1,6 @@
 # Serious Dogs Theater Company Presents: Tape
 
-Stop. Rewind. Play. 
+_Stop. Rewind. Play._
 
 Welcome to the livestreaming production of Tape. Jon, an aspiring filmmaker on the verge of hitting it big, hooks up for the weekend with his best friend from high school, Vince, a volunteer fireman who makes his money selling dope. 
 
