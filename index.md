@@ -8,4 +8,5 @@ Jon’s new film is being shown at a festival in Lansing, Michigan, and Vince ha
 
 __December 4 and 5, 7:30 PM__
 
-[YouTube](https://www.youtube.com/channel/UCSD-pYJonjaJvLNXUnbEe8Q/about)
+- [YouTube](https://www.youtube.com/channel/UCSD-pYJonjaJvLNXUnbEe8Q/about)
+- [Instagram](https://instagram.com/seriousdogstheaterco?igshid=1eysqwo0xd7s2)
