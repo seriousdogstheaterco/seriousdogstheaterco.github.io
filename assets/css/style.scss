@@ -7,8 +7,13 @@
     box-shadow: none;
     border: none;
     max-width: 125px;
+    margin: 0;
 }
 
 .hide {
     display: none;
+}
+
+#header_wrap .inner {
+    padding: 20px 10px 0px 10px;
 }
